@@ -106,17 +106,16 @@ https://cloud.githubusercontent.com/assets/7761249/3828287/6c619ed8-1d76-11e4-84
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+https://cloud.githubusercontent.com/assets/7761249/3828290/764bb8b6-1d76-11e4-9768-e9ad231fe7d7.png
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+https://cloud.githubusercontent.com/assets/7761249/3828295/7e3453f8-1d76-11e4-926f-545a7eb49529.png
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+https://cloud.githubusercontent.com/assets/7761249/3828298/84c9a628-1d76-11e4-92c6-e4ff6df2f1a2.png
 
 Plotting Assignment 1 for Exploratory Data Analysis
 
